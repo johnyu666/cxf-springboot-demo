@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa7e7838-a08f-4811-a220-74c6cbc85b60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/client/src/main/java/cxf/pure/client/ClientNoStubApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/client/src/main/java/cxf/pure/client/ClientWithStubApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/common/src/main/java/cxf/pure/server/service/WetherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/readme.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/server/src/main/java/cxf/pure/server/ServerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cxf-pure-demo/server/src/main/java/cxf/pure/server/service/impl/WetherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-boot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-boot/src/main/java/cn/johnyu/cxf/springboot/ClientBootApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-boot/src/main/java/cn/johnyu/cxf/springboot/service/WetherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-noboot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-noboot/src/main/java/cn/johnyu/cxf/springboot/ClientApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-noboot/src/main/java/cn/johnyu/cxf/springboot/service/WetherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/cn/johnyu/cxf/springboot/ServerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/cn/johnyu/cxf/springboot/service/WetherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/cn/johnyu/cxf/springboot/service/impl/WetherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-ali-cloud/nacos-payment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-ali-cloud/nacos-payment/src/main/java/cn/johnyu/nacos/payment/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-ali-cloud/nacos-payment/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-alibaba-cloud/nacos-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-alibaba-cloud/nacos-order/src/main/java/cn/johnyu/nacos/order/NacosOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-alibaba-cloud/nacos-order/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-alibaba-cloud/nacos-payment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-alibaba-cloud/nacos-payment/src/main/java/cn/johnyu/nacos/payment/NacosPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-alibaba-cloud/nacos-payment/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-alibaba-cloud/sentinel-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-alibaba-cloud/sentinel-order/src/main/java/cn/johnyu/sentinel/order/SentinelOrderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-alibaba-cloud/sentinel-order/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/common-util/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/common-util/src/main/java/cn/johnyu/common/pojo/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/common-util/src/main/java/cn/johnyu/common/vo/CommonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/config-client-product/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/config-client-product/src/main/java/cn/johnyu/config/client/product/ConfigClientProductApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/config-client-product/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/config-server/src/main/java/cn/johnyu/config/server/ConfigServerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/config-server/src/main/resources/application_native.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/config-server/src/main/resources/config/config-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/config-server/test1.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/eureka/src/main/java/cn/johnyu/eureka/EurekaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/eureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/gateway-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/gateway-api/src/main/java/cn/johnyu/gateway/api/GatewayApiApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/gateway-api/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/hystrix-customer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/hystrix-customer/src/main/java/cn/johnyu/hystrix/customer/HystrixCustomerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/hystrix-customer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/mybatis-payment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/mybatis-payment/src/main/java/cn/johnyu/payment/PaymentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/mybatis-payment/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/ribbon-feign-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/ribbon-feign-order/src/main/java/cn/johnyu/ribfeign/order/RibFeiOrderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/ribbon-feign-order/src/main/java/cn/johnyu/ribfeign/order/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-cloud/ribbon-feign-order/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms-demo/readme.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms-demo/src/main/java/cn/johnyu/origin/OrigineApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms-demo/src/main/java/cn/johnyu/springboot/SpringBootApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms/src/main/java/cn/johnyu/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms/src/main/java/cn/johnyu/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms/src/main/java/cn/johnyu/pojo/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jms/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-demo/src/main/java/cn/lnfvc/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-demo/src/main/java/cn/lnfvc/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-demo/src/main/java/cn/lnfvc/mapper/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-demo/src/main/java/cn/lnfvc/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-demo/src/main/resources/mapping/BookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-demo/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure-cxf/src/main/java/cn/johnyu/cxf/ServerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure-cxf/src/main/java/cn/johnyu/cxf/service/WetherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure-cxf/src/main/java/cn/johnyu/cxf/service/impl/WetherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-demo/src/main/java/cn/johnyu/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-demo/src/main/java/cn/johnyu/contorller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-demo/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1iv2h1keFpSOU0RsoJ7fvpgNEzg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client-boot/src/main/java" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client-boot/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ClientBootApp">
+    <configuration name="ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.johnyu.cxf.springboot.ClientApp" />
+      <module name="client-noboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.johnyu.cxf.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientBootApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="client-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.johnyu.cxf.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.johnyu.cxf.springboot.ClientBootApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.johnyu.cxf.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.johnyu.cxf.springboot.ServerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ClientBootApp" />
+        <item itemvalue="Application.ClientApp" />
+        <item itemvalue="Spring Boot.ServerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa7e7838-a08f-4811-a220-74c6cbc85b60" name="Default Changelist" comment="" />
+      <created>1602773863115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602773863115</updated>
+      <workItem from="1602773864133" duration="648000" />
+      <workItem from="1602774533201" duration="1575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1602774265132">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="606" y="151" key="#com.intellij.ide.util.MemberChooser/0.23.1680.963@0.23.1680.963" timestamp="1602774265132" />
+    <state width="1628" height="678" key="GridCell.Tab.0.bottom" timestamp="1602776071799">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="678" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602776071799" />
+    <state width="1628" height="227" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1602774495178" />
+    <state width="1628" height="678" key="GridCell.Tab.0.center" timestamp="1602776071799">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="678" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602776071799" />
+    <state width="1628" height="227" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1602774495178" />
+    <state width="1628" height="678" key="GridCell.Tab.0.left" timestamp="1602776071798">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="678" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602776071798" />
+    <state width="1628" height="227" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1602774495177" />
+    <state width="1628" height="678" key="GridCell.Tab.0.right" timestamp="1602776071799">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="678" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602776071799" />
+    <state width="1628" height="227" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1602774495178" />
+    <state width="1628" height="678" key="GridCell.Tab.1.bottom" timestamp="1602776071801">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="678" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602776071801" />
+    <state width="1628" height="227" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1602774495179" />
+    <state width="1628" height="678" key="GridCell.Tab.1.center" timestamp="1602776071800">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="678" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602776071800" />
+    <state width="1628" height="227" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1602774495178" />
+    <state width="1628" height="678" key="GridCell.Tab.1.left" timestamp="1602776071800">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="678" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602776071800" />
+    <state width="1628" height="227" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1602774495178" />
+    <state width="1628" height="678" key="GridCell.Tab.1.right" timestamp="1602776071801">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="678" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602776071801" />
+    <state width="1628" height="227" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1602774495179" />
+    <state width="625" height="666" key="SwitcherDM" timestamp="1602775932775">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="625" height="666" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1602775932775" />
+    <state x="315" y="73" key="new project wizard" timestamp="1602775600203">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="315" y="73" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1602775600203" />
+    <state x="315" y="90" key="new project wizard/0.23.1680.963@0.23.1680.963" timestamp="1602774048676" />
+  </component>
+</project>

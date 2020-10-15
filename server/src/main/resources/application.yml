@@ -1,0 +1,4 @@
+cxf:
+  path: /services
+server:
+  port: 9003
